@@ -76,7 +76,7 @@
 >> Aula 21 - [Gestão de configuração de software](https://www.youtube.com/watch?v=w3dX97i4v2c)<br>
 
 <!-- SEMANA 07 -->
->&#128311; **Semana 08**: Revisão
+>&#128310; **Semana 08**: Revisão
 >> Revisão - [Revisão](https://www.youtube.com/watch?v=hg42_LKERPk)<br>
 
 
